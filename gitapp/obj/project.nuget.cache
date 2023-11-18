@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Gb+uSIKawIirh+ZuUFhl5zA38hEq5eP0I72ArudKwdEdNznGX0T81DlFzLiFhhN2wDLSf5kegdkw2jRCKACoIw==",
+  "dgSpecHash": "LGustl2U23JcPXxuM6LbWEC4HqdVzBj5rUvSz0vffyUFwE4csEXc9hWLb1vMaSJz37DxsqUHjZSd0nMbzYYKmA==",
   "success": true,
-  "projectFilePath": "/Users/chamindaindunil/Downloads/Projects/Azure/AZ-400/code/gitapp/gitapp/gitapp.csproj",
+  "projectFilePath": "/Users/chamindaindunil/Downloads/Projects/Azure/AZ-400/code/github/gitapp/gitapp/gitapp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

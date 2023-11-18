@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/chamindaindunil/Downloads/Projects/Azure/AZ-400/code/gitapp/gitapp/gitapp.csproj": {}
+    "/Users/chamindaindunil/Downloads/Projects/Azure/AZ-400/code/github/gitapp/gitapp/gitapp.csproj": {}
   },
   "projects": {
-    "/Users/chamindaindunil/Downloads/Projects/Azure/AZ-400/code/gitapp/gitapp/gitapp.csproj": {
+    "/Users/chamindaindunil/Downloads/Projects/Azure/AZ-400/code/github/gitapp/gitapp/gitapp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/chamindaindunil/Downloads/Projects/Azure/AZ-400/code/gitapp/gitapp/gitapp.csproj",
+        "projectUniqueName": "/Users/chamindaindunil/Downloads/Projects/Azure/AZ-400/code/github/gitapp/gitapp/gitapp.csproj",
         "projectName": "gitapp",
-        "projectPath": "/Users/chamindaindunil/Downloads/Projects/Azure/AZ-400/code/gitapp/gitapp/gitapp.csproj",
+        "projectPath": "/Users/chamindaindunil/Downloads/Projects/Azure/AZ-400/code/github/gitapp/gitapp/gitapp.csproj",
         "packagesPath": "/Users/chamindaindunil/.nuget/packages/",
-        "outputPath": "/Users/chamindaindunil/Downloads/Projects/Azure/AZ-400/code/gitapp/gitapp/obj/",
+        "outputPath": "/Users/chamindaindunil/Downloads/Projects/Azure/AZ-400/code/github/gitapp/gitapp/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/chamindaindunil/.nuget/NuGet/NuGet.Config"
