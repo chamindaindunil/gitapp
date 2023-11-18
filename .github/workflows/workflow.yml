@@ -17,5 +17,5 @@ jobs:
           uses: Azure/pipelines@v1
           with:
             azure-devops-project-url: https://dev.azure.com/chamindaindunil/AgileProject
-            azure-pipeline-name: 'chamindaindunil.gitapp'
+            azure-pipeline-name: 'webapp (1)'
             azure-devops-token: ${{ secrets.AZURE_DEVOPS_TOKEN }}
